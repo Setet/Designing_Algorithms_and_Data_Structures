@@ -1,0 +1,30 @@
+C:\Users\user\Desktop\Boss of this Gym\Boss of this Gym\bin\Debug\Boss of this Gym.exe.config
+C:\Users\user\Desktop\Boss of this Gym\Boss of this Gym\bin\Debug\Boss of this Gym.exe
+C:\Users\user\Desktop\Boss of this Gym\Boss of this Gym\bin\Debug\Boss of this Gym.pdb
+C:\Users\user\Desktop\Boss of this Gym\Boss of this Gym\obj\Debug\Boss of this Gym.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Boss of this Gym\Boss of this Gym\obj\Debug\Boss_of_this_Gym.MainForm.resources
+C:\Users\user\Desktop\Boss of this Gym\Boss of this Gym\obj\Debug\Boss_of_this_Gym.Properties.Resources.resources
+C:\Users\user\Desktop\Boss of this Gym\Boss of this Gym\obj\Debug\Boss of this Gym.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Boss of this Gym\Boss of this Gym\obj\Debug\Boss of this Gym.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Boss of this Gym\Boss of this Gym\obj\Debug\Boss of this Gym.exe
+C:\Users\user\Desktop\Boss of this Gym\Boss of this Gym\obj\Debug\Boss of this Gym.pdb
+C:\Users\user\Desktop\Boss of this Gym\Boss of this Gym\obj\Debug\Boss_of_this_Gym.OPN.resources
+C:\Users\user\Desktop\Boss of this Gym\Boss of this Gym\obj\Debug\Boss_of_this_Gym.Sorting.resources
+C:\Users\user\Desktop\Boss of this Gym\Boss of this Gym\obj\Debug\Boss_of_this_Gym.Sdack.resources
+C:\Users\user\Desktop\Boss of this Gym\Boss of this Gym\bin\Debug\ZedGraph.dll
+C:\Users\user\Desktop\Boss of this Gym\Boss of this Gym\bin\Debug\ZedGraph.xml
+C:\Users\user\Desktop\Boss of this Gym\Boss of this Gym\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\user\Desktop\Boss of this Gym\Boss of this Gym\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\user\Desktop\Boss of this Gym\Boss of this Gym\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\user\Desktop\Boss of this Gym\Boss of this Gym\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\user\Desktop\Boss of this Gym\Boss of this Gym\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\user\Desktop\Boss of this Gym\Boss of this Gym\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\user\Desktop\Boss of this Gym\Boss of this Gym\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\user\Desktop\Boss of this Gym\Boss of this Gym\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\user\Desktop\Boss of this Gym\Boss of this Gym\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\user\Desktop\Boss of this Gym\Boss of this Gym\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\user\Desktop\Boss of this Gym\Boss of this Gym\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\user\Desktop\Boss of this Gym\Boss of this Gym\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\user\Desktop\Boss of this Gym\Boss of this Gym\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\user\Desktop\Boss of this Gym\Boss of this Gym\obj\Debug\Boss of this Gym.csproj.CopyComplete
+C:\Users\user\Desktop\Boss of this Gym\Boss of this Gym\obj\Debug\Boss_of_this_Gym.Automat.resources
